@@ -16,7 +16,6 @@ für eine dezentrale, datensouveräne KI-Systemarchitektur.
 **Zielgruppe:**
 - Souveräne Einzelorganisationen (KMUs, Vereine, NGOs, Gemeinden)
 - Datenschutzbewusste Einzelanwender
-- Datensouveränität als Grundrecht, nicht als Luxusgut
 
 **Mission:** *Datensouveränität ist ein Grundrecht, kein Luxusgut.*
 
